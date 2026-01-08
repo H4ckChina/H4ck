@@ -55,3 +55,14 @@ slmgr /ato
 ```bash
 control userpasswords2
 ```
+
+
+
+
+
+
+# Android 相关
+
+# Clash Meta
+
+https://github.com/MetaCubeX/ClashMetaForAndroid
