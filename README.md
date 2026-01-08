@@ -24,6 +24,7 @@ bash <(curl -sL kejilion.sh)
 bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)
 ```
 
+---
 
 
 # Windows 相关
@@ -57,6 +58,7 @@ control userpasswords2
 ```
 
 
+---
 
 
 
