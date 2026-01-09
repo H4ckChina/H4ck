@@ -69,3 +69,10 @@ control userpasswords2
 
 https://github.com/MetaCubeX/ClashMetaForAndroid
 
+
+# Cloudflare 相关
+
+## Cloudflare DNS API
+```bash
+4vasG00cOXJd7m8ht3qf-JG964mkWpfg08fY1hBN
+```
