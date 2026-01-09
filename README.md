@@ -86,11 +86,3 @@ https://github.com/MetaCubeX/ClashMetaForAndroid
 ---
 
 
-
-
-# Github 相关
-
-## Github 令牌
-```bash
-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
-```
