@@ -1,18 +1,5 @@
 # Linux 相关
 
-## Linux DD Windows Server 2022 Datacenter
-
-```bash
-wget -qO- inst.sh|bash -s - -p vda -w Adm1nH4ckChina -n xxx.xxx.xxx.xxx,255.255.255.0,xxx.xxx.xxx.1 -t https://dl.lamp.sh/vhd/zh-cn_win2022.xz
-```
-## Ubuntu 24.04.2 LTS
-```bash
-wget -qO- inst.sh|bash -s - -p vda -w Adm1nH4ckChina -t https://down.idc.wiki/Image/realServer-Template/2025-02-03/qcow2/ubuntu24.qcow2
-```
-## Ubuntu 20.04.2 LTS
-```bash
-wget -qO- inst.sh|bash -s - -p vda -w Adm1nH4ckChina -t https://down.idc.wiki/Image/realServer-Template/2025-02-03/qcow2/ubuntu20.qcow2
-```
 ## Linux DD 脚本
 https://github.com/minlearn/inst
 ## 科技Lion
