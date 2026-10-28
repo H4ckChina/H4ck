@@ -1,7 +1,5 @@
 # Linux 相关
 
-## Linux DD 脚本
-https://github.com/minlearn/inst
 ## 科技Lion
 ```bash
 bash <(curl -sL kejilion.sh)
